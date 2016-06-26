@@ -11,7 +11,7 @@
     <link rel="shortcut icon" href="index.ico" />
     <!--font area-->
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800,300' rel='stylesheet' type='text/css'>
-    <!--------------------css area------------------->
+    <!--css area-->
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/media.css">
 
@@ -36,6 +36,7 @@
                     <div class="col-sm-12 pad-left">
                         <div class="col-sm-6 dec_width">
                             <div class="left-tick-width">
+                                <a href="#convert" class="scroll"></a>
                                 <div class="left_tick_dtls">
                                     <h4>Conversion optimized design</h4>
                                     <p>Some sample description text about the template goes here</p>
@@ -67,8 +68,8 @@
                                         <input type="password" class="form-control" id="pwd">
                                     </div>
                                     <div class="form-group">
-                                        <label for="pwd">Mobile Number</label>
-                                        <input type="password" class="form-control" id="pwd">
+                                        <label for="pwdd">Mobile Number</label>
+                                        <input type="password" class="form-control" id="pwdd">
                                     </div>
                                     <div class="button-pad">
                                         <button type="button" class="btn btn-warning btn-warning" id="request">REQUEST A QUOTE</button>
@@ -107,7 +108,7 @@
                     </div>
                 </div>
                 <div class="col-sm-12">
-                    <div class="convert-txt">
+                    <div class="convert-txt" id="convert">
                         <h1>Convert visitors to your paying customers</h1>
                         <p>Take control over your landing page template</p>
                     </div>
@@ -441,6 +442,16 @@
 
     <script src="js/jquery.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
+    <script type="text/javascript">
+        jQuery(document).ready(function ($) {
+            $(".scroll").click(function (event) {
+                event.preventDefault();
+                $('html,body').animate({
+                    scrollTop: $(this.hash).offset().top
+                }, 900);
+            });
+        });
+    </script>
 
 </body>
 

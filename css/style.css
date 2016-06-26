@@ -131,6 +131,17 @@ label {
     padding: 0 8%;
 }
 
+.left-tick-width>a::after {
+    background: rgba(0, 0, 0, 0) url("../img/arrow.png") no-repeat scroll 0 0 / 100% 100%;
+    content: "";
+    height: 72px;
+    left: 419px;
+    position: absolute;
+    top: 276px;
+    width: 82px;
+    cursor: pointer;
+}
+
 
 /*paying customer area*/
 
