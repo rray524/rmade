@@ -512,3 +512,9 @@
         padding: 7px 0 4px;
     }
 }
+
+@media (min-width:1132px) and (max-width: 1199px) {
+    .test-bg-colr::after {
+        top: 286px;
+    }
+}
