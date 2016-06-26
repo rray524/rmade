@@ -140,6 +140,7 @@ label {
     top: 276px;
     width: 82px;
     cursor: pointer;
+    z-index: 1;
 }
 
 
