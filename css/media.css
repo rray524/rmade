@@ -1,0 +1,514 @@
+@media (min-width:992px) and (max-width: 1199px) {
+    .log-border {
+        background-size: 29% 100%;
+    }
+    .col-sm-12.pad-left {
+        padding-left: 9%;
+    }
+    .col-sm-6.dec_width.dex-width {
+        padding-left: 6%;
+    }
+    .tech-img > img {
+        width: 100%;
+    }
+    .text-img > img {
+        width: 100%;
+    }
+    .test-bg-colr::after {
+        left: 46%;
+        top: 259px;
+    }
+    .circle_area_txt {
+        padding-left: 12%;
+        width: 129%;
+    }
+    .feature-txt.duplicate {
+        margin-top: 521px;
+    }
+    #btn_1.btn.btn-md.btn-warning {
+        left: 73px;
+    }
+    #btn_2.btn.btn-md.btn-warning {
+        left: 73px;
+    }
+    #btn_3.btn.btn-md.btn-warning {
+        left: 73px;
+    }
+}
+
+@media (min-width:768px) and (max-width: 991px) {
+    .logo-txt {
+        margin-top: 16px;
+    }
+    .header-txt > h2 {
+        font-size: 38px;
+    }
+    .log-border > h3 {
+        font-size: 30px;
+    }
+    .log-border {
+        background-size: 30% 80%;
+    }
+    .header-txt > h6 {
+        font-size: 21px;
+    }
+    .left_tick_dtls > h4 {
+        font-size: 18px;
+    }
+    .left_tick_dtls > p {
+        font-size: 12px;
+    }
+    .form-area-width > h2 {
+        font-size: 25px;
+        padding: 1px 0 2px;
+    }
+    .button-pad {
+        padding: 0 14%;
+    }
+    #request.btn {
+        border-radius: 4px;
+        font-size: 16px;
+    }
+    .seen-txt > p {
+        font-size: 13px;
+        margin-top: 13px;
+    }
+    .series_logo > img {
+        width: 22%;
+    }
+    .series_logo {
+        margin-bottom: 2px;
+    }
+    .convert-txt > h1 {
+        font-size: 30px;
+        margin-top: 16px;
+    }
+    .convert-txt > p {
+        font-size: 20px;
+    }
+    .tech-img > img {
+        width: 100%;
+    }
+    .text-img > img {
+        width: 100%;
+    }
+    .col-sm-12.mar-top {
+        margin-top: 14px;
+    }
+    .tech-txt > h4 {
+        color: #384047;
+        font-weight: 700;
+        font-size: 17px;
+    }
+    .tech-txt > p {
+        font-size: 13px;
+    }
+    .col-sm-12.mar-dual {
+        margin: -4px 0 6px;
+    }
+    .testimonial-text > h1 {
+        font-size: 30px;
+        margin-top: 16px;
+    }
+    .testimonial-text > p {
+        font-size: 20px;
+        margin-bottom: 17px;
+    }
+    .test-bg-colr > p {
+        font-size: 14px;
+        line-height: 23px;
+        padding: 12px 13px;
+    }
+    .test-bg-colr::after {
+        left: 44%;
+        top: 224px;
+    }
+    .test-img {
+        padding: 27px 0 6px;
+    }
+    .test-img > h6 {
+        font-size: 14px;
+    }
+    .test-img > p {
+        font-size: 12px;
+    }
+    .feature-txt > h1 {
+        font-size: 30px;
+        margin-top: 18px;
+    }
+    .feature-txt > p {
+        font-size: 20px;
+        margin-bottom: 20px;
+    }
+    .circle {
+        height: 80%;
+        width: 81%;
+    }
+    .circle2 {
+        height: 80%;
+        width: 81%;
+    }
+    .circle3 {
+        height: 80%;
+        width: 81%;
+    }
+    .circle4 {
+        height: 80%;
+        width: 81%;
+    }
+    .circle_area_txt > h3 {
+        font-size: 14px;
+    }
+    .circle_area_txt > p {
+        font-size: 13px;
+    }
+    .circle_area_txt {
+        padding-left: 10%;
+        width: 126%;
+    }
+    .feature-txt.duplicate {
+        margin-top: 397px;
+    }
+    .circle-area-txt > h3 {
+        font-size: 17px;
+        margin-top: 0;
+    }
+    .circle-area-txt > p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .circle-area-txt {
+        padding-bottom: 1px;
+    }
+    .pricing-txt > h1 {
+        font-size: 30px;
+        margin-top: 15px;
+    }
+    .pricing-txt > p {
+        font-size: 20px;
+        margin-bottom: 26px;
+    }
+    .price-body > h3 {
+        font-size: 19px;
+    }
+    .price-body > p {
+        font-size: 13px;
+    }
+    .circle_one > p {
+        font-size: 30px;
+        padding-top: 52px;
+    }
+    #btn_1.btn.btn-md.btn-warning {
+        left: 50px;
+        width: 116px;
+        bottom: 32px;
+    }
+    #btn_2.btn.btn-md.btn-warning {
+        left: 50px;
+        width: 116px;
+        bottom: 32px;
+    }
+    #btn_3.btn.btn-md.btn-warning {
+        left: 50px;
+        width: 116px;
+        bottom: 32px;
+    }
+    .bg-price {
+        margin-bottom: 50px;
+    }
+    .question-txt > h1 {
+        font-size: 30px;
+    }
+    .question-txt > p {
+        font-size: 20px;
+        margin-bottom: 8px;
+    }
+    .question-txt {
+        margin-top: 1px;
+    }
+    .ques-sub-txt > h3 {
+        font-size: 14px;
+    }
+    .ques-sub-txt > p {
+        font-size: 13px;
+        line-height: 20px;
+    }
+    .interested-txt > h1 {
+        font-size: 30px;
+        margin-top: 21px;
+    }
+    .interested-txt > p {
+        font-size: 20px;
+        margin-bottom: 18px;
+    }
+    #interest.btn {
+        font-size: 14px;
+        padding: 8px 4px;
+    }
+    .inter_pad {
+        margin-bottom: 28px;
+    }
+    .foot-txt > p {
+        font-size: 13px;
+    }
+    .footer-itm {
+        padding: 11px 0 35px;
+    }
+}
+
+@media (min-width:320px) and (max-width:767px) {
+    .log-border > h3 {
+        font-size: 24px;
+        letter-spacing: -1px;
+    }
+    .log-border {
+        background-size: 61% 74%;
+    }
+    .logo-txt {
+        margin-top: 3px;
+    }
+    .header-txt > h2 {
+        font-size: 24px;
+        margin-top: 0;
+    }
+    .header-txt > h6 {
+        font-size: 14px;
+    }
+    .left_tick_dtls > h4 {
+        font-size: 15px;
+    }
+    .col-sm-12.pad-left {
+        margin-top: 28px;
+    }
+    .left_tick_dtls > p {
+        font-size: 13px;
+    }
+    .left_tick_dtls::before {
+        height: 23px;
+        width: 23px;
+    }
+    .form_area {
+        position: relative;
+        width: 100%;
+    }
+    .left-tick-width {
+        padding-bottom: 15px;
+    }
+    .col-sm-12.pad-left {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .left_tick_dtls::before {
+        left: -13px;
+    }
+    .form-area-width > h2 {
+        font-size: 24px;
+        padding: 0 0 4px;
+    }
+    .form-control {
+        height: 32px;
+    }
+    label {
+        margin-bottom: 0;
+    }
+    .form-group {
+        margin-bottom: 5px;
+        padding: 0 12px;
+    }
+    #request.btn {
+        border-radius: 3px;
+        font-size: 13px;
+    }
+    .button-pad {
+        margin: 17px 0 16px;
+        padding: 0 19%;
+    }
+    .seen-txt > p {
+        font-size: 12px;
+        margin-top: 15px;
+        text-align: center;
+    }
+    .line-horizontal {
+        margin-bottom: 13px;
+        width: 100%;
+    }
+    .series_logo > img {
+        width: 23%;
+    }
+    .convert-txt > h1 {
+        font-size: 18px;
+        margin-top: 11px;
+    }
+    .convert-txt > p {
+        font-size: 13px;
+    }
+    .tech-img > img {
+        width: 100%;
+    }
+    .tech-txt > h4 {
+        font-size: 12px;
+        text-align: center;
+    }
+    .tech-txt > p {
+        font-size: 12px;
+        text-align: center;
+    }
+    .text-img > img {
+        width: 100%;
+    }
+    .col-sm-12.mar-dual {
+        margin: 14px 0 19px;
+    }
+    .testimonial-text > h1 {
+        font-size: 18px;
+        margin-top: 14px;
+    }
+    .testimonial-text > p {
+        font-size: 13px;
+        margin-bottom: 15px;
+    }
+    .test-bg-colr > p {
+        font-size: 13px;
+        line-height: 16px;
+        padding: 11px 7px;
+    }
+    .test-bg-colr::after {
+        display: none;
+    }
+    .test-img {
+        padding: 24px 0 4px;
+    }
+    .test-img > h6 {
+        font-size: 14px;
+    }
+    .test-img > p {
+        font-size: 12px;
+    }
+    .feature-txt > p {
+        font-size: 13px;
+        margin-bottom: 16px;
+    }
+    .feature-txt > h1 {
+        font-size: 18px;
+        margin-top: 19px;
+    }
+    .feature-txt > h1 {
+        font-size: 18px;
+        margin-top: 19px;
+    }
+    .circle_area_txt > h3 {
+        font-size: 14px;
+        text-align: center;
+    }
+    .circle_area_txt > p {
+        font-size: 13px;
+        text-align: center;
+    }
+    .col-sm-6.bott-pad {
+        padding-bottom: 5px;
+    }
+    .feature-txt.duplicate {
+        margin-top: 38px;
+    }
+    .circle-area-txt > h3 {
+        font-size: 14px;
+    }
+    .circle-area-txt > p {
+        font-size: 13px;
+        line-height: 22px;
+    }
+    .circle-area-txt {
+        padding-bottom: 1px;
+    }
+    .pricing-txt > h1 {
+        font-size: 18px;
+        margin-top: 15px;
+    }
+    .pricing-txt > p {
+        font-size: 13px;
+        margin-bottom: 18px;
+    }
+    .price-body > h3 {
+        font-size: 20px;
+        font-weight: 700;
+        margin-top: 0;
+    }
+    .price-body > p {
+        font-size: 13px;
+    }
+    .circle_one {
+        height: 85%;
+        width: 85%;
+    }
+    .circle_one > p {
+        font-size: 37px;
+        padding-top: 33px;
+    }
+    .bg-price {
+        margin-bottom: 28px;
+        padding-bottom: 38px;
+    }
+    #btn_2.btn.btn-md.btn-warning {
+        bottom: -57px;
+        left: -2px;
+        position: relative;
+    }
+    #btn_1.btn.btn-md.btn-warning {
+        bottom: -57px;
+        left: -2px;
+        position: relative;
+    }
+    #btn_3.btn.btn-md.btn-warning {
+        bottom: -57px;
+        left: -2px;
+        position: relative;
+    }
+    .price-body {
+        padding-top: 19px;
+    }
+    .question-txt > h1 {
+        font-size: 18px;
+    }
+    .question-txt {
+        margin-top: 0;
+    }
+    .question-txt > p {
+        font-size: 13px;
+        margin-bottom: 0;
+    }
+    .ques-sub-txt > h3 {
+        font-size: 13px;
+        text-align: center;
+    }
+    .ques-sub-txt > p {
+        font-size: 12px;
+        line-height: 22px;
+        text-align: center;
+    }
+    .interested-txt > h1 {
+        font-size: 18px;
+        margin-top: 14px;
+    }
+    .interested-txt > p {
+        font-size: 13px;
+        margin-bottom: 12px;
+    }
+    .inter_pad {
+        margin-bottom: 21px;
+        padding: 0 16%;
+    }
+    .foot-img {
+        text-align: center;
+    }
+    .foot-txt > p {
+        font-size: 12px;
+        margin-top: 11px;
+        text-align: center;
+    }
+    .foot-txt > p.last-child {
+        text-align: center;
+    }
+    .footer-itm {
+        padding: 7px 0 4px;
+    }
+}
