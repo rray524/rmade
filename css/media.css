@@ -277,6 +277,9 @@
     .logo-txt {
         margin-top: 3px;
     }
+    .col-sm-6.dec_width.mob-pad {
+        padding-left: 45px;
+    }
     .header-txt > h2 {
         font-size: 24px;
         margin-top: 0;
@@ -309,7 +312,7 @@
         padding-right: 0;
     }
     .left_tick_dtls::before {
-        left: -13px;
+        left: 15px;
     }
     .form-area-width > h2 {
         font-size: 24px;
